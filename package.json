@@ -4,12 +4,12 @@
 	"private": true,
 	"homepage": "https://Catevika.github.io/UDEMY_Yahtzee_App",
 	"dependencies": {
-		"gh-pages": "^2.0.1",
-		"node-sass": "^4.13.0",
-		"react": "^16.8.6",
-		"react-dom": "^16.8.6",
-		"react-scripts": "^3.3.0",
-		"typescript": "^3.5.3"
+		"gh-pages": "^2.2.0",
+		"node-sass": "^4.13.1",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"react-scripts": "^3.4.1",
+		"typescript": "^3.8.3"
 	},
 	"scripts": {
 		"start": "react-scripts start",
@@ -35,6 +35,6 @@
 		]
 	},
 	"devDependencies": {
-		"@fortawesome/fontawesome-free": "^5.9.0"
+		"@fortawesome/fontawesome-free": "^5.13.0"
 	}
 }
