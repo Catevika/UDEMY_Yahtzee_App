@@ -5,20 +5,20 @@
     "main.js.map": "/UDEMY_Yahtzee_App/static/js/main.57548371.chunk.js.map",
     "runtime-main.js": "/UDEMY_Yahtzee_App/static/js/runtime-main.e979fcfb.js",
     "runtime-main.js.map": "/UDEMY_Yahtzee_App/static/js/runtime-main.e979fcfb.js.map",
-    "static/css/2.b836dac7.chunk.css": "/UDEMY_Yahtzee_App/static/css/2.b836dac7.chunk.css",
+    "static/css/2.460f553a.chunk.css": "/UDEMY_Yahtzee_App/static/css/2.460f553a.chunk.css",
     "static/js/2.6cd799f4.chunk.js": "/UDEMY_Yahtzee_App/static/js/2.6cd799f4.chunk.js",
     "static/js/2.6cd799f4.chunk.js.map": "/UDEMY_Yahtzee_App/static/js/2.6cd799f4.chunk.js.map",
     "index.html": "/UDEMY_Yahtzee_App/index.html",
-    "precache-manifest.e5f72e9da4a7439c5ef384ab53a0d083.js": "/UDEMY_Yahtzee_App/precache-manifest.e5f72e9da4a7439c5ef384ab53a0d083.js",
+    "precache-manifest.6c5d212835e308f9a0e048519598146a.js": "/UDEMY_Yahtzee_App/precache-manifest.6c5d212835e308f9a0e048519598146a.js",
     "service-worker.js": "/UDEMY_Yahtzee_App/service-worker.js",
-    "static/css/2.b836dac7.chunk.css.map": "/UDEMY_Yahtzee_App/static/css/2.b836dac7.chunk.css.map",
+    "static/css/2.460f553a.chunk.css.map": "/UDEMY_Yahtzee_App/static/css/2.460f553a.chunk.css.map",
     "static/css/main.e9acd81b.chunk.css.map": "/UDEMY_Yahtzee_App/static/css/main.e9acd81b.chunk.css.map",
     "static/js/2.6cd799f4.chunk.js.LICENSE.txt": "/UDEMY_Yahtzee_App/static/js/2.6cd799f4.chunk.js.LICENSE.txt",
-    "static/media/all.css": "/UDEMY_Yahtzee_App/static/media/fa-solid-900.ee09ad75.woff"
+    "static/media/all.css": "/UDEMY_Yahtzee_App/static/media/fa-solid-900.8e39d5d5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e979fcfb.js",
-    "static/css/2.b836dac7.chunk.css",
+    "static/css/2.460f553a.chunk.css",
     "static/js/2.6cd799f4.chunk.js",
     "static/css/main.e9acd81b.chunk.css",
     "static/js/main.57548371.chunk.js"

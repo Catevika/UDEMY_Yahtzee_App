@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/UDEMY_Yahtzee_App/precache-manifest.e5f72e9da4a7439c5ef384ab53a0d083.js"
+  "/UDEMY_Yahtzee_App/precache-manifest.6c5d212835e308f9a0e048519598146a.js"
 );
 
 self.addEventListener('message', (event) => {
